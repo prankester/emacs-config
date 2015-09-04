@@ -4,7 +4,10 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(custom-enabled-themes (quote (wombat)))
- '(custom-safe-themes (quote ("54266114287ef8abeda6a3df605deffe777957ba994750da6b8595fe90e932f0" default))))
+ '(custom-safe-themes
+   (quote
+    ("54266114287ef8abeda6a3df605deffe777957ba994750da6b8595fe90e932f0" default)))
+ '(package-selected-packages (quote (coffee-mode jedi flycheck))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -18,7 +21,7 @@
                         ("marmalade" . "http://marmalade-repo.org/packages/")
                         ("melpa" . "http://melpa.milkbox.net/packages/")))
 (package-initialize)
-;;custome theme 
+;;custome theme
 ;;(add-to-list 'load-path "~/.emacs.d/emacs-color-theme-solarized/")
 ;;(add-to-list 'custom-theme-load-path "~/.emacs.d/emacs-color-theme-solarized")
 ;; make the fringe stand out from the background
@@ -52,14 +55,21 @@
       (eval-print-last-sexp))))
 (el-get 'sync)
 
+(add-to-list 'load-path "~/.emacs.d/autopair")
 (require 'autopair)
-(autopair-global-mode) ;; to enable in all buffers
+(autopair-global-mode 1) ;; to enable in all buffers
 ;;enable jedi
 (add-hook 'python-mode-hook 'auto-complete-mode)
 (add-hook 'python-mode-hook 'jedi:ac-setup)
 (add-hook 'after-init-hook #'global-flycheck-mode)
 
 ;;disableing splash screen message
-(setq inhibit-splash-screen t)
-(setq inhibit-splash-screen t)
+(setq inhibit-startup-message t)
 ;; alias emacs='emacs --no-splash'
+
+(add-to-list 'auto-mode-alist '("\\.coffee$" . coffee-mode))
+(add-to-list 'auto-mode-alist '("Cakefile" . coffee-mode))
+
+(add-to-list 'load-path "~/.emacs.d/coffee-mode")
+(require 'coffee-mode)
+

@@ -1,0 +1,156 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/prasad/src/zuko/zuko/public/static/" . "social_login/")
+ ("/home/" . "prasad/")
+ ("/home/prasad/src/pypandora/pandora/services/" . "entity/")
+ ("/home/prasad/src/zuko/zuko/templates/html/merchant_center/" . "settings/")
+ ("/home/prasad/src/zuko/zuko/templates/html/" . "real_refer_a_friend/")
+ ("/home/prasad/src/zuko/zuko/templates/" . "html/")
+ ("/home/prasad/src/zuko/" . "zuko/")
+ ("/home/prasad/src/pypandora/pandora/db/" . "models/")
+ ("/home/prasad/src/pypandora/pandora/" . "services/")
+ ("/home/prasad/src/pypandora/" . "pandora/")
+ ("/home/prasad/src/zuko/zuko/public/javascript/" . "merchant/")
+ ("/home/prasad/src/zuko/zuko/public/" . "static/")
+ ("/home/prasad/src/zuko/zuko/" . "config/")
+ ("/home/prasad/src/" . "zuko/")
+ ("/home/prasad/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/prasad/src/zuko/zuko/config/"
+ "/home/prasad/src/zuko/zuko/controllers/"
+ "/home/prasad/src/pypandora/pandora/services/"
+ "/home/prasad/src/zuko/zuko/public/js/"
+ "/home/prasad/"
+ "/home/prasad/.emacs.d/"
+ "/home/prasad/Prasad/"
+ "/home/prasad/src/zuko/zuko/public/static/social_login/"
+ "/home/prasad/src/zuko/zuko/public/static/loyalty/"
+ "/home/prasad/src/pypandora/pandora/db/models/"
+ "/home/prasad/src/pypandora/pandora/cache/"
+ "/home/prasad/src/pypandora/pandora/config/"
+ "/home/prasad/src/zuko/"
+ "/home/prasad/src/pypandora/pandora/utils/"
+ "/home/prasad/src/zuko/zuko/public/javascript/merchant/"
+ "/home/prasad/src/zuko/zuko/public/javascript/merchant_center/"
+ "/home/prasad/src/zuko/zuko/public/javascript/general/"
+ "/home/prasad/src/zuko/zuko/templates/html/real_refer_a_friend/"
+ "/home/prasad/src/zuko/zuko/templates/html/shareandwin/"
+ "/home/prasad/src/zuko/zuko/public/"
+ "/home/prasad/src/zuko/zuko/public/javascript/real_refer_a_friend/"
+ "/home/prasad/src/pypandora/pandora/services/entity/"
+ "/home/prasad/src/zuko/zuko/templates/html/reports/"
+ "/home/prasad/src/pypandora/pandora/serializer/"
+ "/home/prasad/src/zuko/zuko/templates/html/merchant_center/settings/"
+ "/home/prasad/src/pypandora/pandora/tasks/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "routing.py"
+ "loyalty.py"
+ "loyalty_transaction.py"
+ "coupons.py"
+ "loyalty_redemption.py"
+ "all.js"
+ ".vimrc"
+ "init.el"
+ "all_js.coffee"
+ "foobar.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/prasad/src/zuko/zuko/config/" (21989 26685 428424 205000) "middleware.pyc" "deployment.ini_tmpl" "__init__.pyc" "../" "routing.pyc" "environment.pyc" "middleware.py" "minify_config.py" "routing.py" "__init__.py" "environment.py" "./")
+
+ ("/home/prasad/src/zuko/" (21991 55991 116899 224000) "npm-debug.log" "development.ini.dev1" "development.db" "data/" "#development.ini#" "development.ini.demo" "zuko/" ".git/" "../" "setup.cfg" "dump.rdb" "development.ini" "docs/" "test.ini" ".gitignore" "setup.py" "ez_setup.py" "zuko.egg-info/" "development.ini.awsproduction" "README.txt" "MANIFEST.in" "development.ini.yoda" "all_js_coffee.txt" "./")
+
+ ("/home/prasad/src/zuko/zuko/controllers/" (21991 55334 592875 845000) "#js.py#" "shareapurchase.pyc" "photo_share_on_mobile.py" "get_a_fan_billing.pyc" "merchant_center.pyc" "product_stories.py" "error.pyc" "ss_login.pyc" "socialseo.py" "ss_user.py" "ss_entity.pyc" "merchant.py" "billing.py" "get_a_fan.pyc" "getanemail.pyc" "error.py" "lexity.py" "product_share.pyc" "feeds.py" "unsubscribe_user.py" "redirector.py" "#reports.py#" "targeting.py" "photo_entity.py" "ask_friend.py" "profilesapi.py" "shareandwin.py" "__init__.pyc" "#ss_facebook.py#" "shareonmobileapi.py" "flash_deals.py" "ss_login.py" "../" "reports.py" "merchant_center.py" "ss_page.py" "api.py" "reports.pyc" "viral_offer_sharing.py" "flash_deals.pyc" "real_refer_a_friend.py" "ss_image.py" "client_logger.py" "vfsapi.py" "photo_feeds.py" "new_reports.py" "product_stories.pyc" "campaigns.py" "global_settings.pyc" "reviews.py" "ss_contact_imports.py" "register.py" "redirector.pyc" "ss_visitor.pyc" "ssapi/" "purchaseapi.py" "loyalty.pyc" "ss_facebook.pyc" "conference.py" "apps.pyc" "customer_q_and_a.py" "ss_entity.py" "shopifyhooks.py" "__init__.py" "merchant.pyc" "poll.py" "share_on_mobile.py" "campaigns.pyc" "js.py" "shareandwin.pyc" "product_share.py" "targeting.pyc" "shareapurchase.py" "real_refer_a_friend.pyc" "stattracker.py" "get_a_fan_billing.py" "global_settings.py" "socialseo.pyc" "ss_facebook.py" "refer_a_friend_int.py" "referralreportdashboard.py" "ss_user.pyc" "apps.py" "ss_visitor.py" "photo_feeds.pyc" "loyalty.py" "social_login.py" "js.pyc" "getanemail.py" "get_a_fan.py" "spam_checker.py" "./")
+
+ ("/home/prasad/src/pypandora/pandora/services/" (21991 55820 412893 146000) "loyalty_user_level.py" "visitoranalytics.pyc" "file_io.pyc" "loyalty_transaction.py" "mixpanel_export.py" "sf_integration.pyc" "constantcontact.py" "mailchimp.py" "ss_twitter.py" "fonts/" "productbuystats.py" "merchant.py" "billing.py" "get_a_fan.pyc" "bluehornet.pyc" "link.py" "ss_auth.pyc" "stattracker.pyc" "product_share.pyc" "logger.py" "file_io.py" "loyalty_transaction.pyc" "ss_instagram.py" "referral_conversions.py" "win_instant.py" "referral.py" "ss_instagram_photos.py" "stripe_billing.pyc" "redirector.py" "social_seo.py" "visitoranalytics.py" "revenue.py" "targeting.py" "ss_feed.pyc" "ss_feed.py" "photo_entity.py" "photo_entity.pyc" "user_reward_dispatch.pyc" "crm_adapters.pyc" "loyalty_activity.pyc" "ask_friend.py" "coupons.pyc" "stripe_billing.py" "et_sdk.pyc" "user_reward_dispatch.py" "subscription_billing.py" "billing.pyc" "__init__.pyc" "hubspot.pyc" "exceptions.pyc" "loyalty_level.py" "user_profiles.pyc" "poll.pyc" "../" "reports.py" "conversion_tracker.py" "et_sdk.py" "ss_twitter_photos.py" "hubspot.py" "q_and_a.py" "user_profiles.py" "image.pyc" "rewards.pyc" "app_reports.py" "twitter.py" "reports.pyc" "loyalty_configuration.py" "sf_integration.py" "ss_auth.py" "real_refer_a_friend.py" "share_and_win.py" "poll_product.py" "get_an_email.pyc" "loyalty_user_level.pyc" "user.pyc" "twilio_sms.py" "client_logger.py" "loyalty_redemption.pyc" "global_settings.pyc" "visitor.pyc" "ss_instagram_photos.pyc" "product.pyc" "share_and_win.pyc" "exacttarget.pyc" "reviews.py" "campaign.py" "conversion_tracker.pyc" "decorators.py" "dashboard_reports.pyc" "ss_contact_imports.py" "exceptions.py" "site_discovery.pyc" "purchase_sharing.pyc" "redirector.pyc" "yesmail.py" "featureanalytics.py" "async_task.pyc" "ss_fb_photos.pyc" "loyalty_reports.pyc" "purchase_api.py" "flash_deal.pyc" "decorators.pyc" "win_instant.pyc" "stat_data.pyc" "image.py" "conference.py" "apps.pyc" "stat_data.py" "entity/" "constantcontact.pyc" "loyalty_redemption.py" "campaign_reports.py" "async_task.py" "app_reports.pyc" "__init__.py" "merchant.pyc" "poll.py" "pyfind.py" "auth.pyc" "user.py" "social_seo.pyc" "auth.py" "rewards.py" "product_search.py" "share_on_mobile.py" "bluehornet.py" "reviews.pyc" "product.py" "product_share.py" "targeting.pyc" "real_refer_a_friend.pyc" "crm_adapters.py" "stattracker.py" "purchase_sharing.py" "global_settings.py" "subscription_billing.pyc" "coupons.py" "featureanalytics.pyc" "client_logger.pyc" "loyalty_level.pyc" "flash_deal.py" "mailchimp.pyc" "ss_fb_photos.py" "apps.py" "visitor.py" "yesmail.pyc" "get_an_email.py" "campaign.pyc" "loyalty_activity.py" "loyalty_configuration.pyc" "campaign_reports.pyc" "site_discovery.py" "exacttarget.py" "loyalty_reports.py" "dashboard_reports.py" "get_a_fan.py" "poll_product.pyc" "./")
+
+ ("/home/prasad/src/" (21990 57571 808476 872000) "pypandora/" "npm-debug.log" "zuko/" "../" "dump.rdb" "clogneykey.pem" ".src/" "setup/" "bikini/" "./")
+
+ ("/home/prasad/src/pypandora/pandora/" (21990 58751 800518 896000) "libs/" "db/" "api/" "externallibs/" "config/" "__init__.pyc" "serializer/" "../" "dump.rdb" "services/" "notifier/" "workers/" "merchant/" "utils/" "__init__.py" "constants/" "tasks/" "cache/" "ush/" "./")
+
+ ("/home/prasad/src/zuko/zuko/" (21989 43045 851958 345000) "model/" "config/" "__init__.pyc" "controllers/" "../" "websetup.py" "lib/" "tests/" "__init__.py" "templates/" "public/" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/js/" (21988 20007 161738 964000) "shopify.js" "#all_js.coffee#" "../" "easyXDM/" "bigcommerce_plugin.js" "yahoo_plugin.js" "all.js" "all_js.coffee" "volusion_plugin.coffee" "all_js.js" "volusion_plugin.js" "./")
+
+ ("/home/prasad/src/pypandora/pandora/cache/" (21982 42423 554547 672000) "libredis.pyc" "libredis.py" "__init__.pyc" "../" "__init__.py" "./")
+
+ ("/home/prasad/.emacs.d/" (21987 63003 47212 535000) "elpa/" "auto-save-list/" "../" "ido.last~" "init.el" "el-get/" "ido.last" "#init.el#" "init.el~" "coffee-mode/" "session.102c81ca806d4373fb143937554425121300000025890044" "session.102d662aabe6a51546143927723332177100000023950043" "autopair/" ".python-environments/" "ac-comphist.dat" "#ido.last#" "session.10b7aa5e1a498fdc3c14394520642255700000025640056" "session.10887bfa4ca1d8de94144007429627496100000024400052" "session.106c7258e5aef79c4f144042003056168800000023680046" "./")
+
+ ("/home/prasad/" (21987 63236 71220 835000) "b.txt" ".goutputstream-ZC5Y2X" ".dmrc" "Desktop/" ".hplip/" ".gnome2_private/" ".goutputstream-WRGV2X" ".vim/" ".kde/" "Pictures/" "campaign_old.coffee~" ".qt/" ".goutputstream-5HWE2X" ".gimp-2.6/" ".pulse-cookie" ".goutputstream-11U02X" ".gksu.lock" ".face" ".cache/" "Prasad/" ".bashrc" ".pdfedit/" ".xsession-errors" ".local/" ".goutputstream-QZBJ3X" "data/" ".gegl-0.0/" "Downloads/" ".thunderbird/" "Videos/" ".gphoto/" ".profile" "src/" ".eclipse/" ".vimrc" ".mongorc.js" ".vim-fuf-data/" "foo_bar.txt" ".gnome/" ".gnome2/" ".emacs.d/" ".oh-my-zsh/" ".pip/" "../" "dump.rdb" ".zshrc" ".thumbnails/" ".gdfuse/" ".dbshell" ".ssh/" ".filezilla/" ".aptitude/" ".zsh_history" ".zshrc~" ".purple/" ".rpmdb/" ".JxBrowser/" ".gconf/" ".zcompdump" "Ubuntu One/" ".mission-control/" ".gitconfig" "Documents/" "env/" "init.el~" ".compiz-1/" ".gvfs/" ".zsh-update" "dotvim/" ".goutputstream-FHZ83X" ".Skype/" "mongodb/" ".Xauthority" ".zcompdump-prasad-Vostro-3446-4.3.17" "Public/" ".viminfo" ".gem/" ".gtk-bookmarks" "foo_bar.txt~" ".android/" ".gstreamer-0.10/" ".adobe/" ".goutputstream-9V9B3X" "humor_hike_onion.jpg" ".goutputstream-13SMSX" ".goutputstream-G6A4SX" ".swt/" "yankring_history_v2.txt" ".config/" "mongodb-linux-x86_64-2.4.9/" ".dbus/" ".macromedia/" "Music/" ".xsession-errors.old" ".goutputstream-0X7AWX" ".gnupg/" ".goutputstream-XZOSRX" ".putty/" ".goutputstream-ZISE3X" ".ngrok" ".goutputstream-4UCZRX" ".mozilla/" "bar.txt" ".bash_history" ".shotwell/" ".gitk" ".goutputstream-XKTVSX" ".pulse/" ".ICEauthority" ".goutputstream-K3013X" ".pki/" ".bash_logout" ".goutputstream-NBJ13X" "./")
+
+ ("/home/prasad/Prasad/" (21981 19565 503437 485000) "foo1.txt" "foo_bar.txt" "foo1.txt~" "foobar.txt~" "../" "prasadmuley.github.io/" "a.txt" ".gitconfig" "foobar.txt" "foo.txt~" "dotfiles/" "foo_bar.txt~" "a.txt~" "Pylons/" "foo.txt" "./")
+
+ ("/home/prasad/Prasad/dotfiles/" (21980 28995 276332 153000) "README.md" ".git/" "../" ".zshrc" ".gitconfig" ".gitignore" "python/" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/static/social_login/" (21955 4424 618074 169000) "../" "main.css" "main.js" "main.coffee" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/static/loyalty/" (21978 61910 653118 785000) "../" "main.js" "main.coffee" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/static/" (21955 4424 618074 169000) "bootstrap-ie7.css" "social_login/" "easyxdm.swf" "respond/" "../" "boxsizing.htc" "loyalty/" "zeroclipboard/" "bootstrap-responsive.css" "easyXDM.min.js" "./")
+
+ ("/home/prasad/src/pypandora/pandora/config/" (21980 6169 115371 112000) "celeryconfig_common.pyc" "celeryconfig.pyc" "celeryconfig_common.py" "celeryconfig_awsceleryworker.py" "msaconfig.py" "product_strings.pyc" "msaconfig.pyc" "__init__.pyc" "../" "celeryconfig_yoda_brubeck.py" "product_strings.py" "open_graph.py" "celeryconfig_prasad.py~" "celeryconfig_trial.py" "minify_config.pyc" "celeryconfig_yoda.py" "minify_config.py" "celeryconfig_awswebserver.py" "open_graph.pyc" "celeryconfig_prasad.py" "__init__.py" "celeryconfig_yoda_unittest.py" "celeryconfig_awssitediscovery.py" "celeryconfig_prasad.pyc" "celeryconfig.py" "./")
+
+ ("/home/prasad/src/pypandora/pandora/db/models/" (21980 6169 115371 112000) "__init__.pyc" "../" "reports.py" "q_and_a.py" "reports.pyc" "campaign.py" "ss_contact_imports.py" "site_discovery.pyc" "loyalty.pyc" "apps.pyc" "__init__.py" "q_and_a.pyc" "apps.py" "campaign.pyc" "site_discovery.py" "loyalty.py" "./")
+
+ ("/home/prasad/src/pypandora/" (21980 3597 451279 529000) ".git/" "../" "pandora/" ".gitignore" "tests/" "setup.py" "README" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/javascript/real_refer_a_friend/" (21978 61910 649118 785000) "intermediate_page.js" "../" "intermediate_page.coffee" "main_temp.js" "main.js" "main.coffee" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/real_refer_a_friend/" (21978 61910 673118 785000) "main.html" "mobile_intermediate_page.html" "../" "bot_response.html" "default_mobile_template.html" "default_template.html" "intermediate_page.html" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/javascript/merchant/" (21978 61910 649118 785000) "merchant_vos.js" "ss_contacts.js" "ss_contacts.coffee" "payments.js" "payments.coffee" "merchant_center.js" "billing_plan_selection.coffee" "social_actions_settings.coffee" "email_widget.coffee" "getafan_billing.js" "merchant_vos.coffee" "../" "store_creation.coffee" "getafan_billing.coffee" "email_widget.js" "campaign_customize.js" "coupon_uploader.js" "billing_plan_selection.js" "campaign_customize.coffee" "mer_offer_page.js" "mer_prod_preview.js" "social_actions_settings.js" "store_creation.js" "./")
+
+ ("/home/prasad/src/pypandora/pandora/tasks/" (21978 48773 329998 996000) "stat_reports_data.py" "fb_feed.pyc" "__init__.pyc" "../" "tweet.pyc" "tweet.py" "entity_and_reaction.pyc" "helpers.pyc" "user.pyc" "entity_and_reaction.py" "site_discovery.pyc" "notification.pyc" "helpers.py" "stat_reports_data.pyc" "__init__.py" "user.py" "notification.py" "fb_feed.py" "site_discovery.py" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/reports/" (21974 45672 652401 909000) "product_share_report.html" "sales.html" "social_influencers_template.html" "individual_campaign_templates.html" "new_individual_campaign_templates.html" "loyalty_user.html" "get_a_fan_revenue_report.html" "celery_report.html" "merchant_admins_template.html" "email_statistics.html" "summary_report.html" "overall_report_template.html" "client_logger.html" "dashboard_templates.html" "loyalty_report.html" "revenue_report.html" "thankyoupage_stats.html" "impact_report_template.html" "celery_aggregate_report.html" "../" "overall_report.html" "impact_report.html" "new_individual_campaign.html" "platform_state_report.html" "logs.html" "consolidated_report.html" "stattracker.html" "new_dashboard_templates.html" "photomonials_report.html" "summary_report_classified.html" "email_report.html" "billable_social_actions.html" "common.html" "app_report.html" "report_utils_templates.html" "social_influencers.html" "detailed_report.html" "preview_stats.html" "app_report_template.html" "detailed_stat_report.html" "ab_campaign.html" "subscription_revenue_report.html" "social_actions.html" "retention_report.html" "merchant_admins.html" "referral_report_templates.html" "report_dashboard.html" "facebook_connects.html" "incremental_sales.html" "email_subscribers.html" "individual_campaign.html" "ab_test_options.html" "merchants_overview.html" "new_report_dashboard.html" "campaign_type.html" "new_campaign_type.html" "user_dashboard.html" "./")
+
+ ("/home/prasad/src/pypandora/pandora/utils/" (21973 51151 26860 282000) "appcontext.pyc" "httpagentparser.py" "redirector.py" "httpagentparser.pyc" "__init__.pyc" "../" "url.py" "url.pyc" "appcontext.py" "redirector.pyc" "__init__.py" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/javascript/general/" (21955 4424 598074 166000) "tracking.js" "geb_feedback.js" "../" "gep_app_base.js" "file_upload.js" "fb_feed.js" "datetimepicker.js" "./")
+
+ ("/home/prasad/src/pypandora/pandora/services/entity/" (21969 42133 809995 156000) "common.pyc" "common.py" "__init__.pyc" "../" "__init__.py" "main.py" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/shareandwin/" (21955 4424 634074 168000) "main.html" "../" "./")
+
+ ("/home/" (21953 60160 772375 904000) "prasad/" "../" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/loyalty/" (21955 4424 622074 168000) "../" "redemption.html" "base.html" "levels.html" "approval.html" "dashboard_options.html" "api_iframe.html" "activity.html" "enrolled_users.html" "user_dashboard.html" "./")
+
+ ("/home/prasad/src/pypandora/pandora/serializer/" (21962 61554 280097 600000) "__init__.pyc" "../" "__init__.py" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/javascript/reports/" (21955 22277 747812 487000) "facebook_connects.js" "report_utils.js" "billable_social_actions.js" "summary_report.js" "referral_actions_dashboard.js" "new_dashboard_referrers.coffee" "referral_user_dashboard.js" "new_dashboard_referrers.js" "campaign_type.coffee" "reports.js" "flow_chart.coffee" "facebook_connects.coffee" "flash_sale.js" "loyalty_user.coffee" "individual_campaign.coffee" "individual_campaign.js" "../" "reports.coffee" "new_individual_campaign.coffee" "new_individual_campaign.js" "flash_sale.coffee" "new_report_dashboard.coffee" "referral_user_dashboard.coffee" "ab_campaign.js" "flow_chart.js" "ab_campaign.coffee" "sales.coffee" "summary_report.coffee" "email_subscribers.js" "report_utils.coffee" "new_campaign_type.js" "new_report_dashboard.js" "report_dashboard.coffee" "loyalty_report.js" "campaign_type.js" "dashboard_subreports.coffee" "referral_actions_dashboard.coffee" "email_subscribers.coffee" "dashboard_subreports.js" "photomonials_report.coffee" "new_campaign_type.coffee" "loyalty_user.js" "sales.js" "photomonials_report.js" "report_dashboard.js" "loyalty_report.coffee" "billable_social_actions.coffee" "./")
+
+ ("/home/prasad/src/zuko/zuko/model/" (21955 9499 195392 652000) "meta.py" "__init__.pyc" "meta.pyc" "../" "__init__.py" "./")
+
+ ("/home/prasad/src/pypandora/pandora/db/" (21955 9470 959391 647000) "__init__.pyc" "../" "models/" "__init__.py" "./")
+
+ ("/home/prasad/src/pypandora/pandora/merchant/" (21955 3569 970043 733000) "AmazonMerchant.py" "../" "Merchant.py" "Test.py" "MerchantFactory.py" "__init__.py" "Order.py" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/javascript/merchant_center/" (21955 4424 602074 166000) "subscription_billing.coffee" "create_cmp.coffee" "admin_settings.js" "enable_features.coffee" "subscription_billing.js" "notifications.coffee" "stripe_referral_billing.js" "../" "notifications.js" "create_cmp.js" "admin_settings.coffee" "qnamoderation.js" "webhook_settings.js" "webhook_settings.coffee" "qnamoderation.coffee" "main.js" "stripe_referral_billing.coffee" "main.coffee" "enable_features.js" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/javascript/" (21955 4424 614074 169000) "service_provider/" "share/" "partners/" "social_login/" "deals/" "user/" "prepurchase_product_share/" "../" "signin/" "customer_q_and_a/" "general/" "shopping_community/" "merchant_center/" "getafan/" "shareandwin/" "merchant/" "utils.js" "campaign/" "loyalty/" "ext-libs/" "share_a_purchase/" "get_an_email/" "social_seo/" "ask_friend/" "product_stories/" "reports/" "photomonials/" "real_refer_a_friend/" "./")
+
+ ("/home/prasad/src/zuko/zuko/public/" (21955 4424 618074 169000) "xd_receiver.htm" "googlebf9dac926ad3e4b5.html" "social_login.html" "robots.txt" "static/" "newsletter/" "../" "css/" "oc_page.html" "favicon.ico" "loaderio-3d2bf7b82134524eee082088cba534eb.txt" "login_form.html" "js/" "upload_iframe.html" "images/" "pylons-logo.gif" "ask_friend_site/" "bg.png" "javascript/" "xd_receiverhttps.htm" "nortonsw_e3d85ae0-5f29-0.txt" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/" (21955 4424 618074 169000) "../" "html/" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/" (21955 4424 634074 168000) "service_provider/" "share/" "partners/" "social_login/" "deals/" "user/" "prepurchase_product_share/" "integration/" "../" "signin/" "customer_q_and_a/" "general/" "shopping_community/" "merchant_center/" "getafan/" "global/" "shareandwin/" "merchant/" "static_pages/" "loyalty/" "test.html" "share_a_purchase/" "conference/" "get_an_email/" "social_seo/" "ask_friend/" "product_stories/" "reports/" "twitter/" "demo/" "photomonials/" "real_refer_a_friend/" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/merchant_center/" (21955 4424 630074 167000) "new_rstore.html" "billing_plan_selection.html" "index.html" "stripe_custom_billing.html" "change_credit_card.html" "new.html" "stripe_referral_billing.html" "flash_deal_report.html" "../" "base.html" "getafan_report.html" "click_summary.html" "settings/" "report_details.html" "referral_plan.html" "stripe_customer_signup.html" "shopsocially_contacts_template.html" "report_top_performers.html" "help_text_migration.html" "user_reward_dispatch_report.html" "live_preview.html" "rstore_creation_templates.html" "campaign/" "common.html" "user_reward_dispatch_report_csv.html" "vfs_email_coupon.html" "store_creation_templates.html" "help.html" "sales_details.html" "new_store/" "flash_deal_report_csv.html" "report_clickstream.html" "./")
+
+ ("/home/prasad/src/zuko/zuko/templates/html/merchant_center/settings/" (21955 4424 630074 167000) "qnamanual_moderation.html" "newsletter_settings.html" "ss_contacts.html" "manual_invoice.html" "basic_settings.html" "billing_information.html" "super_admin_only.html" "social_actions_settings.html" "settings_common.html" "stripe_keys.html" "enable_features.html" "product_story_settings.html" "notifications_settings.html" "fanpage_settings.html" "auto_moderation.html" "../" "sales_tracking.html" "moderation.html" "merchant_admin.html" "qnaauto_moderation.html" "account_settings.html" "misc_setup.html" "affiliate_settings.html" "facebook_app.html" "invoice.html" "js_templates.html" "webhooks.html" "qnamoderation.html" "email_settings.html" "./")
+
+ ("/home/prasad/Downloads/" (21956 19827 111804 436000) "requirements.txt" "mongodb-linux-x86_64-2.4.9.tar" ".~lock.Vcon tracker .xlsx#" "requirements.txt~" "ShopSociallyInductionManual-WIP.docx" ".~lock.AppWorkerGuide.docx#" "dotvim.tar.gz" "ShopSociallyInductionManual-WIP.docx.docx" ".~lock.SocialConnect13-Mar-2015-19-Feb-2015-18-Mar-2015.csv#" "mongodb-linux-x86_64-2.4.9/" "rabbitmq-server_3.5.4-1_all.deb" ".~lock.BUSINESS PLAN PRESENTATION[1].ppt#" "eStatement5046IN_2014-12-31_09_43.kra~" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

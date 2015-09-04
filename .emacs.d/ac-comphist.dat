@@ -1,0 +1,138 @@
+((("app_id" .
+   [2 0 0 1 1 0])
+  ("debug" .
+   [4 0 0 0 1])
+  ("info" .
+   [16 0 0 0])
+  ("log" .
+   [16 0 0])
+  ("pylons" .
+   [1 0 0 0 0 0])
+  ("long_url" .
+   [1 0 0 0 0 0 0 0])
+  ("update" .
+   [1 0 0 0 0 0])
+  ("i" .
+   [4])
+  ("campaign" .
+   [1 1 0 1 2 0 0 0])
+  ("cmp_id" .
+   [4 0 0 0 0 0])
+  ("entity" .
+   [4 0 0 0 1 0])
+  ("c" .
+   [18])
+  ("is_active" .
+   [0 0 0 0 0 1 0 0 0])
+  ("friends_incentive_type" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("OFFER_ON_NEXT_PURCHASE" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("OFFER_SINGLE_USE_COUPONS" .
+   [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("request" .
+   [4 0 0 0 0 0 0])
+  ("Cookie" .
+   [0 0 0 1 0 0])
+  ("cookies" .
+   [0 0 0 2 0 0 0])
+  ("get" .
+   [5 0 0])
+  ("coupon_code" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  ("cookie_name" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  ("cookie_value" .
+   [0 0 0 1 0 0 0 0 0 0 1 0])
+  ("base_domain" .
+   [4 0 0 0 0 1 0 2 0 0 0])
+  ("config" .
+   [3 0 0 0 0 0])
+  ("response" .
+   [1 0 0 0 0 0 0 0])
+  ("set_cookie" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("domain" .
+   [1 0 0 0 0 0])
+  ("error_msg" .
+   [1 0 0 0 0 0 0 0 0])
+  ("connect" .
+   [1 0 0 0 0 0 0])
+  ("controller" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("action" .
+   [1 0 0 0 0 0])
+  ("params" .
+   [1 0 0 0 0 0])
+  ("resp" .
+   [2 0 0 0])
+  ("paging_data" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("since_id" .
+   [1 0 0 0 0 0 0 0])
+  ("settings" .
+   [2 0 2 0 0 0 0 0])
+  ("load_settings" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("limit" .
+   [8 0 0 0 0])
+  ("fields" .
+   [7 0 0 1 0 0])
+  ("_get_fb_limits_and_fields" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("field" .
+   [0 0 0 0 1])
+  ("hashttag" .
+   [0 0 0 0 0 0 2 0])
+  ("Exception" .
+   [0 0 0 1 1 0 0 0 0])
+  ("temp_hasht" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("decode" .
+   [2 0 1 0 0 0])
+  ("word" .
+   [3 0 0 0])
+  ("word_list" .
+   [1 0 0 0 0 0 1 0 0])
+  ("new_word_list" .
+   [0 0 0 0 0 1 1 1 0 0 0 0 0])
+  ("append" .
+   [2 0 0 0 0 0])
+  ("temp_word" .
+   [1 0 0 1 1 0 0 0 0])
+  ("facebook_hashtags" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0])
+  ("_replace_unicode_character_by_ascii" .
+   [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("x" .
+   [1])
+  ("REDIS_config" .
+   [0 0 0 0 0 0 0 0 2 1 0 0])
+  ("redis" .
+   [2 0 0 0 0])
+  ("field_name" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("redemption" .
+   [1 0 0 0 0 3 1 0 0 0])
+  ("total_coupons" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("used_coupons" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("merchant" .
+   [1 0 0 0 0 0 0 0])
+  ("merchant_key" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("app" .
+   [1 0 0])
+  ("coupon_type" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("COUPON_TYPE_LOYALTY_REDEMPTION" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("s" .
+   [1])
+  ("redemption_name" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("a" .
+   [1])
+  ("lower" .
+   [2 0 0 0 0])))
